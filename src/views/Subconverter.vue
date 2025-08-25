@@ -338,7 +338,7 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "后端【vless reality+hy1+hy2】": "https://dlvmdlwcuqff.us-east-1.clawcloudrun.com",
+          "订阅后端": "https://dlvmdlwcuqff.us-east-1.clawcloudrun.com",
         backendOptions: [
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
